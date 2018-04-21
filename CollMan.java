@@ -72,7 +72,7 @@ public class CollMan {
         try{
         if (!(z[0].equals("remove_greater") || z[0].equals("remove_all") || z[0].equals("info")||z[0].equals("import")||z[0].equals("a"))) {
             throw new CommandException();
-        }}catch (CommandException ex){System.out.println("NO SUCH COMMAND");}
+        }}catch (CommandException ex){System.out.println("NO SUCH COMMAND1");}
 
         if (z[0].equals("import")) {
 
