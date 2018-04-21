@@ -1,4 +1,4 @@
 public abstract class human {
-    public abstract void think(String s);
+    public abstract void think(String sQ);
 
 }
